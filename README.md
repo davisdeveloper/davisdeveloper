@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 | 👀 Interests | 🌱 Currently Learning | 🤝 Looking to Collaborate On |
 |--------------|-----------------------|-------------------------------|
-| Python 🐍, Telegram Bots 🤖, Web Dev 🌐 | FastAPI ⚡, MongoDB 🗃️, Advanced Git & DevOps 🚀 | Open Source Telegram Bots, Cool automation tools, Web-based SaaS platforms |
+| Python 🐍, ML/AI 🤖, Web Dev 🌐, Music Production 🎶, Piano 🎹, Bass guitar 🎸| FastAPI ⚡, Telegram Bots 🤖, Advanced Git & DevOps 🚀 | Music Projects, AI Projects, Cool automation tools, Web-based SaaS platforms |
 
 </div>
 
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 ## 😎 Fun Bits
 
 - 📫 **Reach Me**
-  - Telegram: [@SnowballOfficial](https://t.me/Snowball_Official)
-  - GitHub: [@Snowball-01](https://github.com/Snowball-01)
+  - Telegram: [@Davisville](https://t.me/Davisville)
+  - GitHub: [@Davisville](https://github.com/Davisville)
 
 - 😄 **Pronouns**: `He / Him`
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,react,nextjs,tailwindcss,bootstrap&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,vuejs,angular,tailwindcss,bootstrap,svelte&perline=7" />
 </p>
 
 ---
@@ -57,13 +57,13 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snowball-01&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snowball-01&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davisvdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davisdeveloper&theme=radical&hide_border=true&border_radius=12" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snowball-01&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Snowball-01&theme=radical&utcOffset=+5.5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisdeveloper&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davisdeveloper&theme=radical&utcOffset=+5.5" width="48%" />
 </div>
 
 ---
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snowball-01&theme=react-dark&hide_border=true&area=true&custom_title=Snowball-01%27s%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davisville&theme=react-dark&hide_border=true&area=true&custom_title=Davisville%27s%20Contribution%20Graph" />
 </p>
 
 ---
@@ -87,14 +87,14 @@ Here are some ideas to get you started:
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://t.me/TheSnowballBot"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://github.com/Snowball-01"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://t.me/quabynahdavis"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://github.com/davisdeveloper"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Snowball-01&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=davisdeveloper&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center"><b>Made with ❤️ by Davisville</b></p>
