@@ -1,7 +1,5 @@
 ## Welcome 👋
 
-<h2>I use arch btw😎</h2>
-
 <!--
 **davisdeveloper/davisdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hey there! 👋 I'm Davisville</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Tech+Explorer+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Telegram+Bot+Wizard+%F0%9F%A7%91%E2%80%8D%E2%9A%94%EF%B8%8F;Making+Bots+Cool+Again+%F0%9F%94%A5" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Relief&weight=800&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Explorer+%F0%9F%98%8E;Music+Maniac+%F0%9F%8E%B6;Linux+Supremacist+%F0%9F%A4%96;Keyboard+Supremacist+%F0%9F%8E%B9;Keyboard++%F0%9F%8E%B9+%3E+Bass+%F0%9F%8E%B8" alt="Typing SVG" />
 </p>
 
 
@@ -44,7 +41,7 @@ Here are some ideas to get you started:
 - 😄 **Pronouns**: `He / Him`
 
 - ⚡ **Fun Fact**:
-  > *"I make bots that are more active than my social life!"*
+  > *`"I use arch btw😎"`*
 
 ---
 
@@ -59,7 +56,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davisvdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davisdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davisdeveloper&theme=radical&hide_border=true&border_radius=12" width="48%" />
 </div>
 
