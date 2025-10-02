@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davisdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davisvdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davisdeveloper&theme=radical&hide_border=true&border_radius=12" width="48%" />
 </div>
 
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Snowball-01&theme=radical&no-frame=true&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=davisdeveloper&theme=radical&no-frame=true&margin-w=10&column=6" />
 </p>
 
 ---
