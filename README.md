@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davisvdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davisdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davisdeveloper&theme=radical&hide_border=true&border_radius=12" width="48%" />
 </div>
 
