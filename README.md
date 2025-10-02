@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome 👋
+
+<h2>I use arch btw😎</h2>
 
 <!--
 **davisdeveloper/davisdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 
 | 👀 Interests | 🌱 Currently Learning | 🤝 Looking to Collaborate On |
 |--------------|-----------------------|-------------------------------|
-| Python 🐍, ML/AI 🤖, Web Dev 🌐, Music Production 🎶, Piano 🎹, Bass guitar 🎸| FastAPI ⚡, Telegram Bots 🤖, Advanced Git & DevOps 🚀 | Music Projects, AI Projects, Cool automation tools, Web-based SaaS platforms |
+| Python 🐍, ML/AI 🤖, Web Dev 🌐, Music Production 🎶, Piano 🎹, Bass guitar 🎸, Linux | FastAPI ⚡, Telegram Bots 🤖, Advanced Git & DevOps 🚀 | Music Projects, AI Projects, Cool automation tools, Web-based SaaS platforms |
 
 </div>
 
@@ -49,7 +51,8 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,vuejs,angular,tailwindcss,bootstrap,svelte&perline=7" />
+  <img src="https://skillicons.dev/icons?i=arch,bash,bsd,c,cpp,python,fastapi,express,nodejs,npm,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,vuejs,angular,tailwindcss,bootstrap,svelte&perline=7" />
+  <img src="https://skillicons.dev/icons?i=ableton,cmake,codepen,anaconda,androidstudio,debian,docker,gtk.jest,kali,lua,neovim,postman,pytorch,r,tensorflow,regex,sklearn,tailwind,ubuntu,vim,vite,windows,jquery&perline=7"/>
 </p>
 
 ---
