@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 ## 😎 Fun Bits
 
 - 📫 **Reach Me**
-  - Telegram: [@Davisville](https://t.me/Davisville)
-  - GitHub: [@Davisville](https://github.com/Davisville)
+  - Telegram: [@Davisville](https://t.me/quabynahdavis)
+  - GitHub: [@Davisville](https://github.com/davisdeveloper)
 
 - 😄 **Pronouns**: `He / Him`
 
