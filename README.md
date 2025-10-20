@@ -41,14 +41,14 @@ Here are some ideas to get you started:
 - 😄 **Pronouns**: `He / Him`
 
 - ⚡ **Fun Fact**:
-  > *`"I use arch btw😎"`*
+  ## *`"I use arch btw😎"`*
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,bash,bsd,c,cpp,python,fastapi,express,nodejs,npm,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,vuejs,angular,tailwindcss,bootstrap,svelte,ableton,cmake,codepen,anaconda,androidstudio,debian,docker,gtk,jest,kali,lua,neovim,postman,pytorch,r,tensorflow,regex,sklearn,tailwind,ubuntu,vim,vite,windows,jquery" width="100%" />
+  <img src="https://skillicons.dev/icons?i=arch,bash,bsd,c,cpp,python,fastapi,express,nodejs,npm,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,vuejs,angular,tailwindcss,bootstrap,svelte,ableton,cmake,codepen,anaconda,androidstudio,debian,docker,gtk,jest,kali,lua,neovim,postman,pytorch,r,tensorflow,regex,sklearn,tailwind,ubuntu,vim,vite,windows,jquery&perline=7" width="100%" />
 </p>
 
 ---
