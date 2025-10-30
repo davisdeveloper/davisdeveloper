@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,bash,bsd,c,cpp,python,fastapi,express,nodejs,npm,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,vuejs,angular,tailwindcss,bootstrap,svelte,ableton,cmake,codepen,anaconda,androidstudio,debian,docker,gtk,jest,kali,lua,neovim,postman,pytorch,r,tensorflow,regex,sklearn,tailwind,ubuntu,vim,vite,windows,jquery&perline=7" width="100%" />
+  <img src="https://skillicons.dev/icons?i=arch,bash,bsd,c,cpp,python,fastapi,express,nodejs,npm,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,vuejs,angular,tailwindcss,bootstrap,svelte,ableton,cmake,codepen,anaconda,androidstudio,debian,docker,gtk,jest,kali,lua,neovim,postman,pytorch,r,tensorflow,regex,sklearn,tailwind,ubuntu,vim,vite,windows,jquery,vitest&perline=7" width="100%" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davisville&theme=react-dark&hide_border=true&area=true&custom_title=Davisville%27s%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davisdeveloper&theme=react-dark&hide_border=true&area=true&custom_title=Davisville%27s%20Contribution%20Graph" />
 </p>
 
 ---
