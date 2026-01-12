@@ -1,4 +1,4 @@
-## Welcome 👋 to Dr. Sly's page
+
 
 <!--
 **davisdeveloper/davisdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey there! 👋 I'm Davisville</h1>
+<h1 align="center">Hey there! 👋 I'm Quabynah Davis</h1>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Relief&weight=800&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Explorer+%F0%9F%98%8E;Music+Maniac+%F0%9F%8E%B6;Linux+Supremacist+%F0%9F%A4%96;Keyboard+Supremacist+%F0%9F%8E%B9;Keyboard++%F0%9F%8E%B9+%3E+Bass+%F0%9F%8E%B8" alt="Typing SVG" />
 </p>
