@@ -1,7 +1,5 @@
-
-
 <!--
-**davisdeveloper/davisdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**quabynahdavis/quabynahdavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
 <h1 align="center">Hey there! 👋 I'm Quabynah Davis</h1>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Relief&weight=800&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Explorer+%F0%9F%98%8E;Music+Maniac+%F0%9F%8E%B6;Linux+Supremacist+%F0%9F%A4%96;Keyboard+Supremacist+%F0%9F%8E%B9;Keyboard++%F0%9F%8E%B9+%3E+Bass+%F0%9F%8E%B8" alt="Typing SVG" />
@@ -36,19 +34,19 @@ Here are some ideas to get you started:
 
 - 📫 **Reach Me**
   - Telegram: [@Davisville](https://t.me/quabynahdavis)
-  - GitHub: [@Davisville](https://github.com/davisdeveloper)
+  - GitHub: [@Davisville](https://github.com/quabynahdavis)
 
 - 😄 **Pronouns**: `He / Him`
 
 - ⚡ **Fun Fact**:
-  ## *`"I use arch btw😎"`*
+  ## *`"I use arch btw😎"*  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,bash,bsd,c,cpp,python,fastapi,express,nodejs,npm,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,vuejs,angular,tailwindcss,bootstrap,svelte,ableton,cmake,codepen,anaconda,androidstudio,debian,docker,kubernetes,gtk,jest,kali,lua,neovim,postman,pytorch,r,tensorflow,regex,sklearn,tailwind,ubuntu,vim,vite,windows,jquery,vitest&perline=7" width="100%" />
+  <img src="https://skillicons.dev/icons?i=arch,bash,bsd,c,cpp,python,fastapi,express,nodejs,npm,mongodb,linux,vscode,git,github,heroku,html,css,js,typescript,vuejs,angular,tailwindcss,bootstrap,svelte,ableton,cmake,codepen,anaconda,androidstudio,debian,docker,kubernetes,gtk,jest,kali,lua,neovim,postman,pytorch,r,tensorflow,regex,sklearn,tailwind,ubuntu,vim,vite,windows,jquery,vitest&perline=10" width="100%" />
 </p>
 
 ---
@@ -56,13 +54,13 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <!--div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davisdeveloper&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davisdeveloper&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quabynahdavis&show_icons=true&theme=radical&hide_border=true&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quabynahdavis&theme=radical&hide_border=true&border_radius=12" width="48%" />
 </div-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisdeveloper&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=davisdeveloper&theme=radical&utcOffset=+5.5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quabynahdavis&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quabynahdavis&theme=radical&utcOffset=+5.5" width="48%" />
 </div>
 
 ---
@@ -70,7 +68,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davisdeveloper&theme=radical&no-frame=true&margin-w=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=quabynahdavis&theme=radical&no-frame=true&margin-w=10&column=6" />
 </p>
 
 ---
@@ -78,7 +76,7 @@ Here are some ideas to get you started:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davisdeveloper&theme=react-dark&hide_border=true&area=true&custom_title=Davisville%27s%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quabynahdavis&theme=react-dark&hide_border=true&area=true&custom_title=Davisville%27s%20Contribution%20Graph" />
 </p>
 
 ---
@@ -87,13 +85,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://t.me/quabynahdavis"><img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://github.com/davisdeveloper"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/quabynahdavis"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=davisdeveloper&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=quabynahdavis&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center"><b>Made with ❤️ by Davisville</b></p>
